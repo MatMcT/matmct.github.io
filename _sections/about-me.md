@@ -24,3 +24,10 @@ me take on many different projects across different fields. I specialise in cust
 - Simple UI design
 - Containerisation of software systems (Docker)
 - Version control (GIT)
+- Robot Operation System (ROS)
+
+#### My interests include:
+
+- Machine Learning
+- Robotics
+- Military Robotics
